@@ -12,7 +12,7 @@ Given a messy survey label, predict what three short string methods will return.
 
 ## Get ready
 
-1. In VS Code, choose **File → Open Folder** and open `student-lessons/yishaikandler-dotcom` inside your course copy.
+1. [Download the text-cleaning lesson ZIP](https://github.com/yishaikandler-dotcom/technion-096609-python-ai/raw/refs/heads/add-my-lesson/student-lessons/yishaikandler-dotcom/text-cleaning.zip) and extract it. In VS Code, choose **File → Open Folder** and select the extracted `text-cleaning` folder containing `demo.py`.
 2. Open [demo.py](demo.py), choose **Terminal → New Terminal**, and run `python demo.py` with your course Python.
 3. Look for `' CLAUDE!! '` becoming `'claude'`. Keep the terminal open for the exercises.
 
